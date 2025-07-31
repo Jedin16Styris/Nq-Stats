@@ -1,4 +1,4 @@
-# NQ Historical Insights – 10-Year Analysis
+# 📊 NQ Historical Insights – 10-Year Analysis
 
 This project focuses on analyzing **10 years of Nasdaq Futures (NQ)** daily data to uncover meaningful **patterns, probabilities, and insights** for traders and analysts.  
 
@@ -7,7 +7,7 @@ You can also check out his dedicated page for NQ stats here: **[NQ Stats](https:
 
 ---
 
-## **Project Overview**
+## **📌 Project Overview**
 - **Data Source:** MarketWatch (10 years of daily NQ data)  
 - **Framework:** Python (pandas, matplotlib, seaborn, numpy)  
 - **Timeframe Analyzed:** Daily candles (Open, High, Low, Close, Volume)  
@@ -15,20 +15,20 @@ You can also check out his dedicated page for NQ stats here: **[NQ Stats](https:
 
 ---
 
-## **What’s Included**
+## **📈 What’s Included**
 1. **Data Cleaning & Preparation** – Handling missing values, ensuring proper date indexing.  
 2. **Core Metrics & Insights:**  
-   - Average Daily Ranges & Volatility  
-   - Probability of Sweeps (Previous Highs/Lows)  
-   - Gap Analysis (Gap Size, Gap Fill Probabilities)  
-   - Inside/Outside Day Frequencies  
-   - Day-of-Week & Monthly Seasonal Patterns  
-   - Streak Analysis (Consecutive Up/Down Days)  
-3. **Visualizations** – Histograms, heatmaps, and line charts for quick interpretation.  
+   - 📏 Average Daily Ranges & Volatility  
+   - 🔍 Probability of Sweeps (Previous Highs/Lows)  
+   - 🕳️ Gap Analysis (Gap Size, Gap Fill Probabilities)  
+   - 📐 Inside/Outside Day Frequencies  
+   - 📅 Day-of-Week & Monthly Seasonal Patterns  
+   - 🔄 Streak Analysis (Consecutive Up/Down Days)  
+3. **Visualizations** – 📊 Histograms for quick interpretation.  
 
 ---
 
-## **Why This Matters**
+## **💡 Why This Matters**
 These insights help traders understand **how NQ behaves** on a daily basis, making it easier to:  
 - Anticipate likely daily expansions.  
 - Spot seasonality or day-of-week tendencies.  
@@ -39,13 +39,12 @@ This project is designed to **convert raw data into actionable knowledge** for t
 
 ---
 
-## **Future Plans**
+## **🚀 Future Plans**
 - Adding **more advanced metrics** (weekly bias probabilities, conditional expansions, volatility clustering).  
 - Integrating **machine learning** for pattern recognition and forecasting.  
 - Building an **interactive dashboard** for real-time exploration of these statistics.  
 
 ---
 
-## **Acknowledgements**
+## **🙏 Acknowledgements**
 - Inspired by Chris for his valuable NQ statistical analysis work.  
- 
